@@ -1,4 +1,8 @@
-## Hi there 👋
+### hey
+
+cs + econ @ johns hopkins university · interested in ai/ml, finance, healthcare and building things that work
+
+[linkedin]([url](https://www.linkedin.com/in/navyamehrotra/)) · [site]([url](https://navyamehrotra1.github.io/)) 
 
 <!--
 **NavyaMehrotra1/NavyaMehrotra1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
