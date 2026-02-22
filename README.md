@@ -1,6 +1,6 @@
 ### hi!
 
-cs + econ @ johns hopkins university · interested in ai/ml, finance, healthcare and building things that work
+cs + econ @ johns hopkins university · interested in ai/ml, finance, healthcare and building things that make a difference
 
 [linkedin](https://www.linkedin.com/in/navyamehrotra/) · [site](https://navyamehrotra1.github.io/)
 
